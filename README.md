@@ -1,6 +1,6 @@
 beta v0.0.1
 
-Name
+##Name
 pag --pursuit animation generator
 
 Overview
