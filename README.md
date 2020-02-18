@@ -1,4 +1,4 @@
-beta v0.0.3
+beta v0.0.3.2
 
 ## Name
 pag --pursuit animation generator
